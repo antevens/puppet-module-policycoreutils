@@ -1,0 +1,8 @@
+name    'jalli-policycoreutils'
+version '0.0.1'
+source 'http://github.com/jalli/puppet-module-policycoreutils'
+author 'jalli'
+license 'GNU General Public License, Version 3.0'
+summary 'Setup policycoreutils'
+description 'Sets up policycoreutils for selinux policy management on RedHat based systems (Centos, Fedora, RHEL, etc)'
+project_page 'http://github.com/jalli/puppet-module-policycoreutils'
